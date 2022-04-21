@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body > h1{
+    color: #fff;
+}
+
+.container{
+    background-color: #fff;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container .tempo{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: #ddd;
+    /* background-image: url(img/dia.jpg); */
+    background-size: cover;
+    background-position: center;
+}
