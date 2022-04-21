@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora basica  0.1</title>
+</head>
+<body style="background-color: #4994d1;">
+    <section class="container"> 
+        <p style="font-size:30px; color: #fff;">Informe os números</p>
+        <form action="">
+            <input type="number" name="valor"  placeholder="Número 1" style="width: 150px;">
+            
+            <!-- <select name="" id="selOperacao">
+                <option value="">+</option>
+                <option value="">-</option>
+                <option value="">*</option>
+                <option value="">/</option>
+            </select> -->
+
+            <input type="text" id="operacao" style="width: 50px;" placeholder="Sinal">
+
+            
+            <input type="number" name="valor" style="width: 150px;" placeholder="Número 2">
+            <input type="button" value="Calcular" id="executar" onclick="calc()">
+        </form>
+    </section>
+
+    <script src="./script.js"></script>
+</body>
+</html>
