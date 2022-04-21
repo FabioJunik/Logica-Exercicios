@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\bin\Debug\Ex 31.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\bin\Debug\Ex 31.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\bin\Debug\Ex 31.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex 31.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex_31.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex_31.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex 31.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex 31.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex 31.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 31\obj\Debug\Ex 31.pdb

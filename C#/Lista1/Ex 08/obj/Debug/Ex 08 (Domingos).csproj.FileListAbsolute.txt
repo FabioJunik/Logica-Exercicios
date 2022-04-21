@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\bin\Debug\Ex 08 (Domingos).exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\bin\Debug\Ex 08 (Domingos).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\bin\Debug\Ex 08 (Domingos).pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex 08 (Domingos).csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex_08__Domingos_.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex_08__Domingos_.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex 08 (Domingos).csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex 08 (Domingos).csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex 08 (Domingos).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 08 (Domingos)\obj\Debug\Ex 08 (Domingos).pdb

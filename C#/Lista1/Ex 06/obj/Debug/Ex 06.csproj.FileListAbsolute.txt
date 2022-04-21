@@ -1,0 +1,20 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\bin\Debug\Ex 06.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\bin\Debug\Ex 06.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\bin\Debug\Ex 06.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex 06.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex_06.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex_06.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex 06.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex 06.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex 06.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 06\obj\Debug\Ex 06.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\bin\Debug\Ex 06.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\bin\Debug\Ex 06.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\bin\Debug\Ex 06.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex 06.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex_06.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex_06.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex 06.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex 06.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex 06.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\Ex 06\obj\Debug\Ex 06.pdb

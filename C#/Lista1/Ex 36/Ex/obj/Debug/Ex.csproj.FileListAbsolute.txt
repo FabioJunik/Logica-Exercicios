@@ -1,0 +1,10 @@
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\bin\Debug\Ex.exe.config
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.csprojAssemblyReference.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.Form1.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.Properties.Resources.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.csproj.GenerateResource.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex\Ex\obj\Debug\Ex.pdb

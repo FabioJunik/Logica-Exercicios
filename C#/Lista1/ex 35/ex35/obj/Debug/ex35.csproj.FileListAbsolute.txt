@@ -1,0 +1,20 @@
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\bin\Debug\ex35.exe.config
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\bin\Debug\ex35.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\bin\Debug\ex35.pdb
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.csprojAssemblyReference.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.Form1.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.Properties.Resources.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.csproj.GenerateResource.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.csproj.CoreCompileInputs.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex35\ex35\obj\Debug\ex35.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\bin\Debug\ex35.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\bin\Debug\ex35.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\bin\Debug\ex35.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex 35\ex35\obj\Debug\ex35.pdb

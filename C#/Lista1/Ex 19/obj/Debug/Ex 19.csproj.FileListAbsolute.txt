@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Desktop\AG\Ex 19\bin\Debug\Ex 19.exe.config
+C:\Users\Fábio junic\Desktop\AG\Ex 19\bin\Debug\Ex 19.exe
+C:\Users\Fábio junic\Desktop\AG\Ex 19\bin\Debug\Ex 19.pdb
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex 19.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex_19.Form1.resources
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex_19.Properties.Resources.resources
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex 19.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex 19.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex 19.exe
+C:\Users\Fábio junic\Desktop\AG\Ex 19\obj\Debug\Ex 19.pdb

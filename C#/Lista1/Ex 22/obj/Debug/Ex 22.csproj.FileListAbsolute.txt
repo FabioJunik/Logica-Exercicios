@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\bin\Debug\Ex 22.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\bin\Debug\Ex 22.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\bin\Debug\Ex 22.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex 22.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex_22.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex_22.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex 22.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex 22.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex 22.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 22\obj\Debug\Ex 22.pdb

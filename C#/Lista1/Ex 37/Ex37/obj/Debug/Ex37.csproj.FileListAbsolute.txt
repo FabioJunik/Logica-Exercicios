@@ -1,0 +1,10 @@
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.csprojAssemblyReference.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.Form1.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.Properties.Resources.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.csproj.GenerateResource.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.csproj.CoreCompileInputs.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\bin\Debug\Ex37.exe.config
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\bin\Debug\Ex37.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\bin\Debug\Ex37.pdb
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex37\Ex37\obj\Debug\Ex37.pdb

@@ -1,0 +1,20 @@
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\bin\Debug\ex41v.exe.config
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\bin\Debug\ex41v.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\bin\Debug\ex41v.pdb
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.csprojAssemblyReference.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.Form1.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.Properties.Resources.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.csproj.GenerateResource.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.csproj.CoreCompileInputs.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex41v\ex41v\obj\Debug\ex41v.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\bin\Debug\ex41v.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\bin\Debug\ex41v.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\bin\Debug\ex41v.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\1\ex41v\ex41v\obj\Debug\ex41v.pdb

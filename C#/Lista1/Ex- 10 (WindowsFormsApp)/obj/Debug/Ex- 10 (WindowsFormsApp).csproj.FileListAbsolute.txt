@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\bin\Debug\Ex- 10 (WindowsFormsApp).exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\bin\Debug\Ex- 10 (WindowsFormsApp).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\bin\Debug\Ex- 10 (WindowsFormsApp).pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex- 10 (WindowsFormsApp).csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex__10__WindowsFormsApp_.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex__10__WindowsFormsApp_.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex- 10 (WindowsFormsApp).csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex- 10 (WindowsFormsApp).csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex- 10 (WindowsFormsApp).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex- 10 (WindowsFormsApp)\obj\Debug\Ex- 10 (WindowsFormsApp).pdb

@@ -1,0 +1,10 @@
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\bin\Debug\ex38.exe.config
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\bin\Debug\ex38.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\bin\Debug\ex38.pdb
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.csprojAssemblyReference.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.Form1.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.Properties.Resources.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.csproj.GenerateResource.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.csproj.CoreCompileInputs.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\ex38\ex38\obj\Debug\ex38.pdb

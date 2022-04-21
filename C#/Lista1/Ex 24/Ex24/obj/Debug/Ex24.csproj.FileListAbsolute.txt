@@ -1,0 +1,10 @@
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\bin\Debug\Ex24.exe.config
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\bin\Debug\Ex24.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\bin\Debug\Ex24.pdb
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.csprojAssemblyReference.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.Form1.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.Properties.Resources.resources
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.csproj.GenerateResource.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.csproj.CoreCompileInputs.cache
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.exe
+C:\Users\Sandelelo Muteka\Desktop\Help\c#\Ex24\Ex24\obj\Debug\Ex24.pdb

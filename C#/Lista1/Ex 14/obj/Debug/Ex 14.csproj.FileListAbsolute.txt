@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\bin\Debug\Ex 14.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\bin\Debug\Ex 14.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\bin\Debug\Ex 14.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex 14.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex_14.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex_14.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex 14.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex 14.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex 14.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 14\obj\Debug\Ex 14.pdb

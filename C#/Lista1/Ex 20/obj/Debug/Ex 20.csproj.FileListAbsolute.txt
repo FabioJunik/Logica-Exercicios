@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\bin\Debug\Ex 20.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\bin\Debug\Ex 20.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\bin\Debug\Ex 20.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex 20.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex_20.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex_20.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex 20.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex 20.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex 20.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Ex 20\obj\Debug\Ex 20.pdb
