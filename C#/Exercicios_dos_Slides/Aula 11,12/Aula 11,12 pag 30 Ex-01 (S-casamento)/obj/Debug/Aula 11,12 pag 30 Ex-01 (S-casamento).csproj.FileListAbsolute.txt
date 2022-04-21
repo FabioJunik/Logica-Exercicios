@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\bin\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\bin\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\bin\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula_11_12_pag_30_Ex_01__S_casamento_.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula_11_12_pag_30_Ex_01__S_casamento_.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30 Ex-01 (S-casamento)\obj\Debug\Aula 11,12 pag 30 Ex-01 (S-casamento).pdb

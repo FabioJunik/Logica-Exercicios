@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\bin\Debug\Aula 7,8 Ex-02 pag19.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\bin\Debug\Aula 7,8 Ex-02 pag19.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\bin\Debug\Aula 7,8 Ex-02 pag19.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula 7,8 Ex-02 pag19.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula_7_8_Ex_02_pag19.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula_7_8_Ex_02_pag19.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula 7,8 Ex-02 pag19.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula 7,8 Ex-02 pag19.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula 7,8 Ex-02 pag19.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 7,8 Ex-02 pag19\obj\Debug\Aula 7,8 Ex-02 pag19.pdb

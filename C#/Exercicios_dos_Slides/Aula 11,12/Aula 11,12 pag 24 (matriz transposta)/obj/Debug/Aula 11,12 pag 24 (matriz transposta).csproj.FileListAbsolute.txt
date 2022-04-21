@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\bin\Debug\Aula 11,12 pag 24 (matriz transposta).exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\bin\Debug\Aula 11,12 pag 24 (matriz transposta).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\bin\Debug\Aula 11,12 pag 24 (matriz transposta).pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula 11,12 pag 24 (matriz transposta).csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula_11_12_pag_24__matriz_transposta_.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula_11_12_pag_24__matriz_transposta_.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula 11,12 pag 24 (matriz transposta).csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula 11,12 pag 24 (matriz transposta).csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula 11,12 pag 24 (matriz transposta).exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 24 (matriz transposta)\obj\Debug\Aula 11,12 pag 24 (matriz transposta).pdb

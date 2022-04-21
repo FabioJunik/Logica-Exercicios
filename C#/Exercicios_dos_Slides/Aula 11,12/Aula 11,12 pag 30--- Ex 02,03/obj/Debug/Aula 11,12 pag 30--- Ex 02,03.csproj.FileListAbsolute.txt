@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\bin\Debug\Aula 11,12 pag 30--- Ex 02,03.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\bin\Debug\Aula 11,12 pag 30--- Ex 02,03.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\bin\Debug\Aula 11,12 pag 30--- Ex 02,03.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula 11,12 pag 30--- Ex 02,03.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula_11_12_pag_30____Ex_02_03.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula_11_12_pag_30____Ex_02_03.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula 11,12 pag 30--- Ex 02,03.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula 11,12 pag 30--- Ex 02,03.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula 11,12 pag 30--- Ex 02,03.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Aula 11,12 pag 30--- Ex 02,03\obj\Debug\Aula 11,12 pag 30--- Ex 02,03.pdb
