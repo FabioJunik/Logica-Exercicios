@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2 Ex05.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2_Ex05.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2_Ex05.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2 Ex05.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2 Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\bin\Debug\lista2 Ex05.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\bin\Debug\lista2 Ex05.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\bin\Debug\lista2 Ex05.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2 Ex05.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex05\obj\Debug\lista2 Ex05.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\bin\Debug\lista2 Ex03.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\bin\Debug\lista2 Ex03.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\bin\Debug\lista2 Ex03.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2 Ex03.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2_Ex03.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2_Ex03.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2 Ex03.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2 Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2 Ex03.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\lista2 Ex03\obj\Debug\lista2 Ex03.pdb

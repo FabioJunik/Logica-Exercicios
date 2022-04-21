@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2 Ex-1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2_Ex_1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2_Ex_1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2 Ex-1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2 Ex-1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\bin\Debug\folha2 Ex-1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\bin\Debug\folha2 Ex-1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\bin\Debug\folha2 Ex-1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2 Ex-1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\folha2 Ex-1\obj\Debug\folha2 Ex-1.pdb
